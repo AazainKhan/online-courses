@@ -3,7 +3,6 @@
 My journey with online courses. Compiled with notes, code and anything relevant to the online course
 
 ## Currently Enrolled in
----
 
 - AI For Everyone - Coursera
 
